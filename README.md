@@ -1,3 +1,10 @@
+# TALL4Deepfake 复现
+
+> 本科「科学与社会」研讨课 · 人脸篡改检测课题：对 ICCV 2023 / IJCV 2024 的 TALL、TALL++ 工作进行复现与实验。
+> 原始实现见下方官方说明，本地改动见文末「关于本仓库」。
+
+---
+
 # Official implementation for TALL and TALL++
 
 ## [**[ICCV-2023] Thumbnail Layout for Deepfake Video Detection**](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.pdf)
